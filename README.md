@@ -2,9 +2,9 @@
 
 Необходимо выполнить и предоставить на проверку следующие задачи:
 
-1. [CSV - JSON парсер](./task1/README.md);	
-2. [XML - JSON парсер](./task2/README.md);
-3. [JSON парсер](./task3/README.md) (задание со звездочкой *).
+1. [CSV - JSON парсер](https://github.com/netology-code/jd-homeworks/blob/master/special_files/task1/README.md);	
+2. [XML - JSON парсер](https://github.com/netology-code/jd-homeworks/blob/master/special_files/task2/README.md);
+3. [JSON парсер](https://github.com/netology-code/jd-homeworks/blob/master/special_files/task3/README.md) (задание со звездочкой *).
 
 =======
 
